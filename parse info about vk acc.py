@@ -11,7 +11,7 @@ ws1 = wb['Лист2']
 part1 = "https://api.vk.com/method/users.get?user_ids="
 part_center = "&start_from=&fields=activities, about, bdate, career,city, country, education,followers_count,sex,schools,interests,military,personal,universities"
 
-#в part2 вводим личный vk токен, полученный после инициализации приложения через в vk api
+#в part2 вводим личный vk токен, полученный после инициализации приложения через vk api
 part2 = "vk токен"
 paginator = "0"
 count = 2
