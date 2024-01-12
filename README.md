@@ -1,6 +1,5 @@
 Парсинг личной информации аккаунтов ВК через VK Api.
-  Парсятся следующие поля:\ 
-  first_name 
+  Парсятся следующие поля:first_name 
   last_name
   activities
   about
